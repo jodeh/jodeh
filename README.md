@@ -15,8 +15,7 @@
   </p>
 
 
-<p >I'm a Cloud DevOps Engineer and Application Security enthusiast.
-I’m currently learning and improving my DevSecOps skills.
+<p >I'm a Cloud DevOps Engineer 
 </p>
 
 

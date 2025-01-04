@@ -1,8 +1,14 @@
 ## Hi, I’m Abdullah Jodeh <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+DevOps+Engineer;I'm+also+studying+Computer+Engineering" /></a>
-</p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5500&pause=850&width=500&lines=I'm+a+DevOps+Engineer;sudo+make+everything-work.;Life%E2%80%99s+too+short+for+manual+deployments.)](https://git.io/typing-svg)
+<hr>
+
+<h3 align="center">Contact Me</h3>
+
+<p align="center">
+  <code>cat /etc/contacts | grep Abdullah:</code><br>
+  Here’s how you can reach me:
+</p>
 <p align ="center">	
   <a href="mailto:abdullah.jodeh01@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
@@ -13,11 +19,7 @@
  
   </a>  
   </p>
-
-
-<p >I'm a Cloud DevOps Engineer 
-</p>
-
+<br>
 
 
 ## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
@@ -36,8 +38,10 @@
 </p>
 
 
-## Projects
+<br>
 
+## Projects
+<p align="center"
 <a href="https://github.com/jodeh/Dockerized-Django-Nginx-Mysql"> 
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -53,6 +57,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jodeh&repo=K8s-Django-app&theme=tokyonight" />
 
 </a> 
+</p>
 
 ----
 

@@ -22,45 +22,27 @@
 
 ## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#
 
 <p align="center">
   
   [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
   
-  <a href="" target="_blank">
-    [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#
-  </a>
+  [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#
   
-   <a href="" target="_blank">
-    [![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)](#)
-  </a>
+  [![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)](#)
 
-   <a href="https://scikit-learn.org/" target="_blank">
-    [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
-  </a>
+  [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
 
-   <a href="https://keras.io/" target="_blank">
-    [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](#)
-  </a>
+  [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](#)
 
-   <a href="https://numpy.org/" target="_blank">
-    [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
-  </a>
+  [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
   
-  <a href="https://numpy.org/" target="_blank">
-    [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-  </a>
+  [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
-  <a href="https://numpy.org/" target="_blank">
-    [![Oracle Cloud](https://custom-icon-badges.demolab.com/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white)](#)
-  </a>
+  [![Oracle Cloud](https://custom-icon-badges.demolab.com/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white)](#)
 
-   <a href="https://numpy.org/" target="_blank">
-    [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
-  </a>
+  [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
 
-   
 </p>
 
 ## Projects
